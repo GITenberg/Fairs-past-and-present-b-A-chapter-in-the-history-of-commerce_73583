@@ -1,0 +1,27 @@
+_repo: Fairs-past-and-present-b-A-chapter-in-the-history-of-commerce_73583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walford, Cornelius
+    gutenberg_agent_id: '57129'
+    url: http://www.gutenberg.org/2009/agents/57129
+description: ''
+gutenberg_issued: '2024-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73583'
+language: en
+pgterms:marc904: https://archive.org/details/fairspastpresent00walf
+pgterms:marc905: 20210705053300walford
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bElliot Stock, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fairs, past and present : $b A chapter in the history of commerce'
+url: http://www.gutenberg.org/ebooks/73583
